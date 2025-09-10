@@ -1,0 +1,7 @@
+tinkoff-investments==0.2.0b116
+pandas>=2.2.2
+openpyxl>=3.1.2
+python-dateutil>=2.9.0.post0
+aiohttp>=3.9.5
+certifi>=2024.7.4
+PyYAML>=6.0.2
